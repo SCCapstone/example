@@ -2,4 +2,4 @@
 
 This is a paragraph
 
-![](tNCH0sKSZbA-full.jpg =200px)
+<img src="tNCH0sKSZbA-full.jpg" width=200px/>
